@@ -1,1 +1,1 @@
-This repository Consist all the code which allow us to build genrative ai solution using GCP Cloud  
+This repository had the code, which helped us to build Generative AI Solution using GCP Cloud  
