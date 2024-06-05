@@ -13,7 +13,7 @@ def generate():
     "gemini-1.5-flash-001",
   )
   responses = model.generate_content(
-      [image1, """Can you convert the detailed information in this chart to a table?"""],
+      [image2, """Can you convert the detailed information in this chart to a table?"""],
       generation_config=generation_config,
       safety_settings=safety_settings,
       stream=True,
